@@ -41,3 +41,12 @@ The second implementation has been written in Java around 2022. One of its targe
 
 # Documentation
 -  [GitHub Wiki](https://github.com/stealth-scriptsdk/java-docs)
+
+# Note of Thanks
+- [Neo](http://www.scriptuo.com/index.php?action=profile;u=2961) 
+- [Orich](http://www.scriptuo.com/index.php?action=profile;u=109) 
+- [Drabadan](https://github.com/drabadan/) 
+- [ZeroDX](https://github.com/ZeroDX255)
+- [Maxwell](https://github.com/Maxwellwr)
+
+Thanks to you, i were able to steadily obtain more insight, inspiration or ideas how to write my own external api implementation
