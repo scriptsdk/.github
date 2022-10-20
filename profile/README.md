@@ -14,7 +14,7 @@ ScriptSDK was a vision of me (Crome696) of building an advanced library for scri
 
 The first library was written in C# around 2016 and can be found as here as [legacy](https://github.com/stealth-scriptsdk/CSharp-ScriptSDK-Legacy "legacy") reference.
 
-The second implementation has been written in Java around 2022. Onne of its targets is an api where user can simple write scripts or utilize the power of spring to have a new standard for api implemenations.
+The second implementation has been written in Java around 2022. One of its targets is an api where user can simple write scripts or utilize the power of spring to have a new standard for api implemenations.
 
 # Features
 
