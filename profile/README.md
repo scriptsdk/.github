@@ -1,3 +1,6 @@
+![grafik](https://user-images.githubusercontent.com/7686889/196970404-aa891858-50ad-4524-b3b2-6ffd27907a20.png)
+
+
 # Summary
 ScriptSDK is an implementation of an external api for [Stealth Client](https://stealth.od.ua/ "Stealth Client").
 
