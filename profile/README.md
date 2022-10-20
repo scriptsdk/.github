@@ -1,4 +1,4 @@
-![grafik](https://user-images.githubusercontent.com/7686889/196970404-aa891858-50ad-4524-b3b2-6ffd27907a20.png)
+![grafik](https://user-images.githubusercontent.com/7686889/196972069-a8439c17-dfc9-4958-99c2-0adc01d008bb.png)
 
 
 # Summary
