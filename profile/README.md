@@ -29,7 +29,6 @@ The second implementation has been written in Java around 2022. One of its targe
 -  [Core](https://github.com/stealth-scriptsdk/java-core)
 -  [Api](https://github.com/stealth-scriptsdk/java-api)
 -  [Web](https://github.com/stealth-scriptsdk/java-web)
--  [Library](https://github.com/stealth-scriptsdk/java-library)
 -  [Api Template](https://github.com/stealth-scriptsdk/java-example)
 
 ### C-Sharp (C#)
